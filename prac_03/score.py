@@ -16,7 +16,7 @@ def main():
 def determineScore(score):
     if score < 0:
         return "Invalid score"
-    else:#jsdhkjsdh
+    else:
         if score > 100:
             return "Invalid score"
         elif 90 > score >= 50:
